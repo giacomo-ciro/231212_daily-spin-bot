@@ -1,6 +1,6 @@
 # DailySpinBot
 This repository hosts the source code for a program to automate [SNAI Daily Spin](https://www.snai.it/giochi/Daily-spin).  
-Simply download "DailySpinBot.exe" from [here](https://drive.google.com/drive/folders/1de7MVKo1JqI04xnw6GozPlaj1yUMsKyk?usp=sharing), open it on your windows pc and follow the instructions.
+Download "DailySpinBot.exe" from [here](https://drive.google.com/drive/folders/1de7MVKo1JqI04xnw6GozPlaj1yUMsKyk?usp=sharing), open it on your windows pc and follow the instructions.
 
 ## Description
 SNAI Daily Spin is a promotion that gives you a free token every day to play a special slot where you can win real credit for SNAI.com.
