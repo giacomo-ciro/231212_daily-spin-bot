@@ -1,1 +1,1 @@
-# daily-spin-bot
+# DailySpin Bot
