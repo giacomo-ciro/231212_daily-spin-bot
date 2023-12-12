@@ -7,12 +7,10 @@ SNAI Daily Spin is a promotion that gives you a free token every day to play a s
 This program automate the process of playing the Daily Spin. Once iniated, every day at 00:01 it will automatically login to yuor SNAI.com account, play the "Daily Spin" game and save a screenshot with the results and timestamp in the chosen folder.
 
 ## Setup
-1-Download "DailySpinBot.exe" and open it.  
-2-Type in Username (it must be your Username, not the email) and Password for the SNAI.com account.  
-Choose a folder where to save the results of the spins.   
-Click "Initiate" to start the countdown.  
-Click "Pause" to stop the countdown.  
-Click "Spin Now" to immediately spin (this option does not save a screenshot with the results).  
+1) Download "DailySpinBot.exe" and open it.  
+2) Type in Username (it must be your Username, not the email) and Password for the SNAI.com account.  
+3) Choose a folder where to save the results of the spins.   
+4) Click "Initiate" to start the countdown and "Pause" to stop the countdown. Click "Spin Now" to immediately spin (this option does not save a screenshot with the results).  
   
 For any problem, feel free to reach out.
 
