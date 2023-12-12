@@ -1,0 +1,2 @@
+Provide login info and folder to save results.
+Spin every day at 00:01
