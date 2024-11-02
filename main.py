@@ -65,10 +65,10 @@ def run_loop():
 
 root = tk.Tk()
 root.title("Daily Spin Bot")
-root.iconbitmap('G:/My Drive/[02] Projects/230106_Selenium/231209_DailySpinBot/icon.ico')
+root.iconbitmap('./icon.ico')
 root.geometry('300x500')
 
-description_label = tk.Label(root, text=open('G:/My Drive/[02] Projects/230106_Selenium/231209_DailySpinBot/description.txt', 'r').read())
+description_label = tk.Label(root, text=open('./description.txt', 'r').read())
 username_label = tk.Label(root, text="Username:")
 username_entry = tk.Entry(root)
 password_label = tk.Label(root, text="Password:")
