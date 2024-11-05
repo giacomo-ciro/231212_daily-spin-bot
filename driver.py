@@ -27,6 +27,7 @@ def spin(USERNAME, PASSWORD, PATH = "", screenshot = False):
     
     driver = webdriver.Chrome()
     driver.get('https://www.snai.it/giochi/Daily-spin')
+    # driver.get('https://www.snaigiochi.it/casual/login/?skin=SNAI&mobile=1&gioco=DAILYSPIN&a=oooo&openExtMode=1&id_network=1&prodotto=casual')
     WebDriverWait(driver, 20).until(EC.element_to_be_clickable((By.XPATH, '//button[contains(@id, "cookie_consent_banner_closer")]'))).click()
     WebDriverWait(driver, 20).until(EC.element_to_be_clickable((By.XPATH, '//a[contains(@class, "registerGhostButtonHeader")]'))).click()
     WebDriverWait(driver, 20).until(EC.element_to_be_clickable((By.XPATH, '//input[contains(@placeholder, "Username")]'))).send_keys(USERNAME)
